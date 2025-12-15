@@ -328,19 +328,6 @@ The [CLAUDE.md](CLAUDE.md) file contains all the instructions for how Claude sho
 
 ---
 
-## 📝 About Me
-
-Research-oriented CS Master's student (Year 2) passionate about deep learning and AI. Strong mathematical foundation (linear algebra, calculus, probability) from undergraduate CS degree. Previously completed machine learning course (80/100), now diving deep into neural networks, CNNs, RNNs, and Transformers.
-
-**Goals**:
-- Conduct cutting-edge AI research
-- Secure algorithm engineer position
-- Contribute to open-source ML/DL projects
-
-**Learning Style**: Theory-first with hands-on coding to solidify understanding. Prefer 2-hour daily focused study sessions with classic papers and experiments.
-
----
-
 ## 📞 Connect
 
 If you're also learning deep learning or using AI-assisted study methods, let's connect and share insights!
